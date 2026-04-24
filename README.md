@@ -1,121 +1,48 @@
-# 🧑🏽‍💻 Diego Augusto
+<div align="center">
 
-**`Estudante de programação focado em Engenharia de Software`**
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=58A6FF&text=Diego%20Augusto&height=150&fontSize=60&animation=twinkling" alt="Diego Augusto" />
 
-Me chamo Diego Augusto, tenho 17 anos e sou de Goiás.
-Atualmente estou cursando o ensino médio integrado ao curso técnico em Desenvolvimento de Jogos. Tenho como objetivo seguir carreira em Engenharia de Software, com foco em desenvolvimento Full Stack, e compartilho no GitHub toda a minha trajetória desde o início.
+  <br/>
+
+ 
+
+</div>
+
+<br/>
 
 ---
-### 🤖 Linguagens e Tecnologias
 
- <img
-  align="left" 
-  alt="HTML"
-  title="HTML" 
-  width="30px" 
-  style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+### 👨‍💻 Sobre mim
 
-  
- <img
-  align="left" 
-  alt="CSS"
-  title="CSS" 
-  width="30px" 
-  style="padding-right: 10px;"       
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-
-
-
-<img
-  align="left" 
-  alt="CSS"
-  title="CSS" 
-  width="30px" 
-  style="padding-right: 10px;"
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-          
-  
-<img
-  align="left" 
-  alt="PYTHON"
-  title="PYTHON" 
-  width="30px" 
-  style="padding-right: 10px;"
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-
- 
-<img 
-  align="left" 
-  alt="JAVA"
-  title="JAVA" 
-  width="30px" 
-  style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-
-
-<img
-  align="left" 
-  alt="GIT"
-  title="GIT" 
-  width="30px" 
-  style="padding-right: 10px;"
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-
-  <img
-    align="left" 
-    alt="GITHUB"
-    title="GITHUB" 
-    width="30px" 
-    color="white"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
-
- 
-<img
-  align="left" 
-  alt="DJANGO"
-  title="DJANGO" 
-  width="30px" 
-  style="padding-right: 10px;"  
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
-
-
-  
-  <img 
-   align="left" 
-   alt="C"
-   title="C" 
-   width="30px" 
-   style="padding-right: 10px;"
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-
-   
+Sou **Diego Augusto**, tenho 17 anos e sou de Goiás. Atualmente, curso o Ensino Médio integrado ao Técnico em **Desenvolvimento de Jogos**. Apesar do foco em jogos no curso, meu grande objetivo é seguir carreira em **Engenharia de Software**, com foco em **Desenvolvimento Full Stack**. Compartilho por aqui toda a minha trajetória, aprendizados e projetos desde o início! 🚀
 
 <br/>
+
+### 🚀 Tecnologias e Ferramentas
+
+<div align="center">
+  <img width="40" style="padding: 0 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML5"/>
+  <img width="40" style="padding: 0 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS3"/>
+  <img width="40" style="padding: 0 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript"/>
+  <img width="40" style="padding: 0 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python"/>
+  <img width="40" style="padding: 0 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" title="Java"/>
+  <img width="40" style="padding: 0 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" title="C"/>
+  <img width="40" style="padding: 0 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" title="Django"/>
+  <img width="40" style="padding: 0 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git"/>
+  <img width="40" style="padding: 0 10px;" src="https://cdn.simpleicons.org/github/white" title="GitHub"/>
+</div>
+
 <br/>
 
-### 📊 Estatísticas
+### 📊 Estatísticas do GitHub
 
-<p>
+<p align="center">
   <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=diegogusto&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    height="170" 
+    src="https://github-readme-stats.vercel.app/api?username=diegogusto&show_icons=true&locale=pt-br&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&icon_color=58A6FF&border_color=58A6FF" 
   />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegogusto&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  <img 
+    height="170" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegogusto&layout=compact&langs_count=9&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&icon_color=58A6FF&border_color=58A6FF&custom_title=Tecnologias" 
   />
-
 </p>
-          
-          
-          
-          
-          
