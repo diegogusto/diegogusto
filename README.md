@@ -62,11 +62,20 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-origina
   style="padding-right: 10px;"
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 
+  <img
+    align="left" 
+    alt="GITHUB"
+    title="GITHUB" 
+    width="30px" 
+    color="white"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+
  
 <img
   align="left" 
-  alt="GIT"
-  title="GIT" 
+  alt="DJANGO"
+  title="DJANGO" 
   width="30px" 
   style="padding-right: 10px;"  
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
@@ -75,12 +84,13 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-origina
   
   <img 
    align="left" 
-   alt="GIT"
-   title="GIT" 
+   alt="C"
+   title="C" 
    width="30px" 
    style="padding-right: 10px;"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-          
+
+   
 
 <br/>
 <br/>
