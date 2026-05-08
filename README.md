@@ -14,7 +14,7 @@
 
 ### 👨‍💻 Sobre mim
 
-Sou **Diego Augusto**, tenho 17 anos e sou de Goiás. Atualmente, curso o Ensino Médio integrado ao Técnico em **Desenvolvimento de Jogos**. Apesar do foco em jogos no curso, meu grande objetivo é seguir carreira em **Engenharia de Software**, com foco em **Desenvolvimento Full Stack**. Compartilho por aqui toda a minha trajetória, aprendizados e projetos desde o início! 🚀
+Sou **Diego Augusto**, tenho 17 anos. Atualmente, curso o Ensino Médio integrado ao Técnico em **Desenvolvimento de Jogos**. Apesar do foco em jogos no curso, meu grande objetivo é seguir carreira em **Engenharia de Software**, com foco em **Desenvolvimento Full Stack**. Compartilho por aqui toda a minha trajetória, aprendizados e projetos desde o início! 🚀
 
 <br/>
 
