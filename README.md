@@ -19,6 +19,7 @@ Embora minha formação técnica seja voltada para jogos, meu principal objetivo
 Neste perfil compartilho minha evolução como desenvolvedor, registrando projetos, aprendizados e experiências desde o início da minha jornada 🚀
 
 <br/>
+<br/>
 
 <div align="center">
   <a href="https://github.com/SEU_USUARIO_AQUI?tab=repositories&sort=stargazers">
@@ -29,6 +30,8 @@ Neste perfil compartilho minha evolução como desenvolvedor, registrando projet
   </a>
   <img src="https://komarev.com/ghpvc/?username=diegogusto&style=for-the-badge&color=bf3989&label=VISITAS" />
 </div>
+
+<br/>
 
 ### 🚀 Tecnologias e Ferramentas
 
