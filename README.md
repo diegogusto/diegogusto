@@ -51,6 +51,19 @@ Neste perfil compartilho minha evolução como desenvolvedor, registrando projet
 
 <br/>
 
+<br><br>
+
+<div align="center">
+  <h3>🚀 Agência Noxus</h3>
+  <p>Automação e gestão completa para pedidos de delivery, balcão e mesas.</p>
+  <a href="https://www.agencianoxus.com.br/">
+    <img src="https://img.shields.io/badge/Acessar_a_Plataforma-8A2BE2?style=for-the-badge&logo=rocket&logoColor=white" />
+  </a>
+</div>
+
+<br>
+
+
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
