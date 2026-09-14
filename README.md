@@ -33,7 +33,7 @@ Neste perfil compartilho minha evolução como desenvolvedor, registrando projet
 
 <br/>
 
-### 🚀 Tecnologias e Ferramentas
+### 💻 Tecnologias e Ferramentas
 
 <div align="center">
   <img width="40" style="padding: 0 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML5"/>
@@ -53,6 +53,7 @@ Neste perfil compartilho minha evolução como desenvolvedor, registrando projet
 
 <br><br>
 
+### 🚀 Grandes projetos
 <div align="center">
   <h3>🚀 Agência Noxus</h3>
   <p>Automação e gestão completa para pedidos de delivery, balcão e mesas.</p>
