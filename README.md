@@ -20,6 +20,16 @@ Neste perfil compartilho minha evolução como desenvolvedor, registrando projet
 
 <br/>
 
+<div align="center">
+  <a href="https://github.com/SEU_USUARIO_AQUI?tab=repositories&sort=stargazers">
+    <img src="https://img.shields.io/github/stars/diegogusto?style=for-the-badge&color=e3b341&label=ESTRELAS" />
+  </a>
+  <a href="https://github.com/diegogusto?tab=followers">
+    <img src="https://img.shields.io/github/followers/diegogusto?style=for-the-badge&color=58A6FF&label=SEGUIDORES" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=diegogusto&style=for-the-badge&color=bf3989&label=VISITAS" />
+</div>
+
 ### 🚀 Tecnologias e Ferramentas
 
 <div align="center">
