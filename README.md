@@ -4,6 +4,18 @@
 
 <br/>
 
+<a href="https://github.com/diegogusto?tab=repositories&sort=stargazers">
+  <img src="https://img.shields.io/github/stars/diegogusto?style=for-the-badge&color=e3b341&label=ESTRELAS" />
+</a>
+<a href="https://github.com/diegogusto?tab=followers">
+  <img src="https://img.shields.io/github/followers/diegogusto?style=for-the-badge&color=58A6FF&label=SEGUIDORES" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=diegogusto&style=for-the-badge&color=bf3989&label=VISITAS" />
+
+<br/><br/>
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="Coding GIF" />
+
 </div>
 
 <br/>
@@ -19,19 +31,6 @@ Embora minha formação técnica seja voltada para jogos, meu principal objetivo
 Neste perfil compartilho minha evolução como desenvolvedor, registrando projetos, aprendizados e experiências desde o início da minha jornada 🚀
 
 <br/>
-<br/>
-
-<div align="center">
-  <a href="https://github.com/SEU_USUARIO_AQUI?tab=repositories&sort=stargazers">
-    <img src="https://img.shields.io/github/stars/diegogusto?style=for-the-badge&color=e3b341&label=ESTRELAS" />
-  </a>
-  <a href="https://github.com/diegogusto?tab=followers">
-    <img src="https://img.shields.io/github/followers/diegogusto?style=for-the-badge&color=58A6FF&label=SEGUIDORES" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=diegogusto&style=for-the-badge&color=bf3989&label=VISITAS" />
-</div>
-
-<br/>
 
 ### 💻 Tecnologias e Ferramentas
 
@@ -41,6 +40,7 @@ Neste perfil compartilho minha evolução como desenvolvedor, registrando projet
   <img width="40" style="padding: 0 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript"/>
   <img width="40" style="padding: 0 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python"/>
   <img width="40" style="padding: 0 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" title="Django"/>
+  <img width="40" style="padding: 0 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" title="Godot Engine"/>
   <img width="40" style="padding: 0 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" title="MySQL"/>
   <img width="40" style="padding: 0 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" title="Supabase"/>
   <img width="40" style="padding: 0 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" title="Java"/>
@@ -49,11 +49,10 @@ Neste perfil compartilho minha evolução como desenvolvedor, registrando projet
   <img width="40" style="padding: 0 10px;" src="https://cdn.simpleicons.org/github/white" title="GitHub"/>
 </div>
 
-<br/>
-
-<br><br>
+<br/><br/>
 
 ### 🚀 Grandes projetos
+
 <div align="center">
   <h3>🚀 Agência Noxus</h3>
   <p>Automação e gestão completa para pedidos de delivery, balcão e mesas.</p>
@@ -62,8 +61,7 @@ Neste perfil compartilho minha evolução como desenvolvedor, registrando projet
   </a>
 </div>
 
-<br>
-
+<br/>
 
 ### 📊 Estatísticas do GitHub
 
