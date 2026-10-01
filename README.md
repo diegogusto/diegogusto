@@ -28,7 +28,7 @@ Neste perfil compartilho minha evolução como desenvolvedor, registrando projet
   <a href="https://github.com/diegogusto?tab=followers">
     <img src="https://img.shields.io/github/followers/diegogusto?style=for-the-badge&color=58A6FF&label=SEGUIDORES" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=diegogusto?&style=for-the-badge&color=bf3989&label=VISITAS" />
+  <img src="https://komarev.com/ghpvc/?username=diegogusto&style=for-the-badge&color=bf3989&label=VISITAS" />
 </div>
 
 <br/>
